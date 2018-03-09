@@ -1,0 +1,10 @@
+#title {
+        color: teal;
+        background-color: lightyellow;
+}
+
+#pic {
+        width: 100px;
+        position: absolute;
+        border-radius: 50px;
+}
